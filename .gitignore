@@ -17,6 +17,13 @@ simulator/.mvn/wrapper/maven-wrapper.jar
 .idea/
 backend/.idea/
 simulator/.idea/
+backend/.metadata/
+simulator/.settings/
+simulator/.classpath
+simulator/.project
+
+# Simulator MQTT temp client dirs
+simulator/mqtt-simulator-client*/
 
 # Logs
 **/*.log
